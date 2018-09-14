@@ -5,12 +5,6 @@ FileETag none
 ServerSignature Off
 
 Options All -Indexes
-
-<IfModule mod_rewrite.c>
-RewriteRule ^shorten/(.*)$ shorten.php?longurl=$1 [L]
-RewriteRule ^([0-9a-zA-Z]{1,6})$ redirect.php?url=$1 [L]
-</IfModule>
-
 ##Force SSL 
 
 #Normal way (in case you need to deploy to NON-heroku)
