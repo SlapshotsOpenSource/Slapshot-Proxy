@@ -1,5 +1,5 @@
 RewriteEngine On
-DirectoryIndex index.php
+DirectoryIndex index.php index.html
 
 # remove the next 3 lines if you see a 500 server error
 php_flag register_globals off
