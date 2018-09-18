@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8a36a70d0e57a36c338f7862da49f75d",
     "content-hash": "26211f359c2e7acb2ff6c2563cfd6b07",
     "packages": [
         {
@@ -38,7 +37,7 @@
                 "MIT"
             ],
             "description": "A collection of useful plugins to be used with php-proxy",
-            "time": "2018-04-01 19:18:27"
+            "time": "2018-04-01T19:18:27+00:00"
         },
         {
             "name": "athlon1600/youtube-downloader",
@@ -73,7 +72,7 @@
                 "download youtube videos",
                 "youtube downloader"
             ],
-            "time": "2017-02-26 19:17:47"
+            "time": "2017-02-26T19:17:47+00:00"
         },
         {
             "name": "shirtjs/php-proxy",
@@ -109,7 +108,7 @@
                 "proxy script",
                 "web proxy"
             ],
-            "time": "2018-05-04 18:09:34"
+            "time": "2018-05-04T18:09:34+00:00"
         }
     ],
     "packages-dev": [],
