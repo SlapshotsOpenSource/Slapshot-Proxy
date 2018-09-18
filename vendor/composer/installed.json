@@ -54,7 +54,7 @@
         },
         "time": "2017-02-26T19:17:47+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "files": [
                 "src/YouTubeDownloader.php"
