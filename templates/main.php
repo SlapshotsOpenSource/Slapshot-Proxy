@@ -97,7 +97,7 @@ html body {
 		<h3 style="color:green;">Liveleaks</h3>
 		<h3 style="color:green;">And many more!</h3>
 <h5 style="color:green;">Proxy is ad-supported. I hate ads too, but they're a necessary evil. Click on it and I get $, you don't have to buy it or whatever</h5>
-<iframe data-aa='1023504' src='//ad.a-ads.com/1023504?size=234x60' scrolling='no' style='width:234px; height:60px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+<iframe data-aa='1023765' src='//ad.a-ads.com/1023765?size=990x90&background_color=2b2b2b&text_color=00d820&title_color=ff00f8&link_color=009ff4' scrolling='no' style='width:990px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
 	    </div>
 
 
