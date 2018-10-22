@@ -9,7 +9,7 @@ Keep in mind that this is a **project** and not a library. Installing this via *
 A project such as this, should be installed straight into the public directory of your web server.
 
 ```bash
-composer create-project Shadowsnhd/titanium-new:dev-master /var/www/
+composer create-project shirtjs/titanium-new:dev-master /var/www/
 ```
 
 If you do not have composer or trying to host this application on a **shared hosting**, then download a pre-installed version of this app as a ZIP archive from [**www.radioactivehalflife.cf/download.html**](https://www.radioactivehalflife.cf/download.html).
