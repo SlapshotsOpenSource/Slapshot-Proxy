@@ -7,7 +7,7 @@ img[alt="www.000webhost.com"]{display:none;}
 <!DOCTYPE html>
 <html>
 <head>
-<body style="background-color: black;">
+<body style="background-color: white;">
 <title>TitaniumNetwork Proxy</title>
 
 <meta name="generator" content="php-proxy.com">
@@ -57,9 +57,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:purple;">Titanium Network Proxy</h1>
-                <h1 style="color:green;">Shadowsnhd's PHP-Proxy Server</h1>														
-		<h3 style="color:blue;">Using the titaniumnetwork proxy will allow you to anonymously visit any site you wish. Due to its anonymous nature, you can even unblock websites that are blocked by school and work firewalls!</h3>
+		<h1 style="color:blue;">Slapshot's Proxy</h1>													
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
