@@ -8,7 +8,7 @@ img[alt="www.000webhost.com"]{display:none;}
 <html>
 <head>
 <body style="background-color: white;">
-<title>TitaniumNetwork Proxy</title>
+<title>asdfthjkl</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -57,7 +57,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">Slapshot's Proxy</h1>													
+		<h1 style="color:blue;">AnxietyCore's Proxy</h1>													
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
